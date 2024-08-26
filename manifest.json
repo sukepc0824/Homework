@@ -5,7 +5,7 @@
   "description": "家庭科の宿題",
   "content_scripts": [  
         {  
-            "css": ["index.css"], // 適用させたいcssのパス  
+            "css": ["index.css"],
             "all_frames": true
         }  
     ]  
