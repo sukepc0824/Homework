@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "UDfont",
+  "version": "1.0.0",
+  "description": "家庭科の宿題",
+  "content_scripts": [  
+        {  
+            “css”: ["index.css"], // 適用させたいcssのパス  
+            “all_frames”: true
+        }  
+    ]  
+}
